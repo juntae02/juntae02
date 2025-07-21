@@ -3,7 +3,6 @@
 > 안녕하세요! ***"사용자를 먼저 생각하는 개발자"*** 박준태 입니다!  
 > 6개월간 두산 로보틱스 부트캠프 ***Rokey***에서 ***4개***의 프로젝트를 진행하며, 로봇 개발자의 역량을 길렀습니다.  
 > 또한, 이해한 내용을 사람들에게 설명하고, 함께 성장할 수 있도록 ***영상과 블로그***로 기록했습니다.  
-> ### 나중에 여기에 블로그 만들어서 링크 걸어두기!
 <br />
 
 ## 📞 Contact
@@ -15,7 +14,7 @@
 - 유튜브 :<a href="https://www.youtube.com/@the_jtpark">
   <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
   </a>
-  <br />
+<br />
 
 ## 📝 Projects  
 
