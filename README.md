@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Juntae 
 
-> 안녕하세요! ***"사용자를 먼저 생각하는 개발자"*** 박준태 입니다!  
-> 6개월간 두산 로보틱스 부트캠프 ***Rokey***에서 ***4개***의 프로젝트를 진행하며, 로봇 개발자의 역량을 길렀습니다.  
-> 또한, 이해한 내용을 사람들에게 설명하고, 함께 성장할 수 있도록 ***영상과 블로그***로 기록했습니다.  
+> 안녕하세요! ***"사람들에게 도움이 되는 로봇 기술을 개발하고자 노력하는"*** 박준태 입니다!  
+> 다양한 로봇 시스템 환경에서 발생하는 문제들을 해결하며,  
+> 안정적이고 효율적인 로봇 솔루션을 구현하는 데 열정을 가지고 있습니다.  
 <br />
 
 ## 📞 Contact
@@ -103,3 +103,13 @@
 >> - [프로젝트 상세 설명] 괄호 치고 프로젝트 리드미 링크 넣기  
 <br />
 
+## 📞 Contact
+> 궁금한 점이 있으시거나 함께 성장할 기회가 있다면, 언제든지 편하게 연락 주세요!  
+- 이메일 : juntaepark02@gmail.com
+- 블로그 : <a href="">
+  <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
+  </a>
+- 유튜브 :<a href="https://www.youtube.com/@the_jtpark">
+  <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
+  </a>
+<br />
