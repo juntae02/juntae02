@@ -40,15 +40,6 @@
 >> - [🦾 나의 완벽한 비서](https://github.com/juntae02/my_perfect_secretary) (장인 보조 협동로봇 - 대장장이)
 >> - [🚓🪝 탐라는 도로지킴이](https://github.com/juntae02/Tamna_is_road_guardian) (제주도 불법주정차 단속 및 견인 서비스)
 
-- 발표 자료  
-> 언어는 영어로 설정해야 폰트가 변형되지 않음  
->> - [🚗 출발~ 드림팀](https://www.canva.com/design/DAGt2sLx8RI/VkKIgs1l_i8HXuTRUbE8JQ/edit?utm_content=DAGt2sLx8RI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) (시뮬레이션)
->> - [🚗 출발~ 드림팀](https://www.canva.com/design/DAGt2kunhJg/goZzTe1LCq2qbrLk0cxp_A/edit?utm_content=DAGt2kunhJg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) (실제)
->> - [🌸 Bloom for you](https://www.canva.com/design/DAGt2hxdEvg/8CEbznRIRrQc8xgAosH4Jg/edit?utm_content=DAGt2hxdEvg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
->> - [🦾 나의 완벽한 비서](https://www.canva.com/design/DAGt2pGk8OM/XAmI-RrP8dZGNZCpIRM1vw/edit?utm_content=DAGt2pGk8OM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
->> - [🚓🪝 탐라는 도로지킴이](https://www.canva.com/design/DAGt2neo4Xk/Ou0XMsSN_wnzc_xa53b6Fw/edit?utm_content=DAGt2neo4Xk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-
 ## 📞 Contact
 > 궁금한 점이 있으시거나 함께 성장할 기회가 있다면, 언제든지 편하게 연락 주세요!  
 - 이메일 : juntaepark02@gmail.com
