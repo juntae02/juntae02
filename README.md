@@ -48,24 +48,6 @@
 >> - [🦾 나의 완벽한 비서](https://www.canva.com/design/DAGt2pGk8OM/XAmI-RrP8dZGNZCpIRM1vw/edit?utm_content=DAGt2pGk8OM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 >> - [🚓🪝 탐라는 도로지킴이](https://www.canva.com/design/DAGt2neo4Xk/Ou0XMsSN_wnzc_xa53b6Fw/edit?utm_content=DAGt2neo4Xk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## 1. 🚗 출발~ 드림팀
-> 차선 인식 기반 ***자율주행*** 실험  
-> - 개발기간 : 2025.06.23-07.04(2주)  
-> - 개발인원 : 4명(팀원)  
-
-**[프로젝트 개요]**
-> TurtleBot3를 활용하여, 다양한 방식의 ***Line Detection*** 및 ***환경 인지 기능*** 구현
->> - ***준태***: ***밝기*** 기반 Line Detection  
->> - 석환: ***색상*** 기반 Line Detection 및 총괄 지휘  
->> - 예은: ***Contour*** 기반 Line Detection  
->> - 요한: ***Aruco 마커*** 기반 Obstacle Detection 및 Pick & Place  
-
-**[담당 역할]**
-> ***밝기***를 기반으로 차선을 자율주행하고, 횡단보도 감지 시 정지하는 동작 구현
->> - ***빛 반사***로 인한 잘못된 차선 인식을 방지하기 위해, 색상이 아닌 ***밝기 정보***로 차선 검출  
->> - ***밝기***만으로 횡단보도와 차선의 구별이 어려운 한계를 극복하기 위해, ***색상 정보***로 횡단보도 검출   
->> - [프로젝트 상세 설명] 괄호 치고 프로젝트 리드미 링크 넣기  
-<br />
 
 ## 4. 🚓🪝 탐라는 도로지킴이
 > 제주도 불법주정차 단속 및 견인 서비스
