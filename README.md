@@ -35,10 +35,10 @@
 ## 📝 Projects  
 > 해당 프로젝트들은 짧은 개발 기간에도 불구하고, ***특정 문제 해결에 집중***하여 진행되었습니다.  
 > 각 프로젝트 리포지토리에서는 ***담당한 역할***, ***트러블 슈팅***, ***과정 속 배움***을 상세히 확인하실 수 있습니다.  
->> - [🚗 출발~ 드림팀] (차선 인식 기반 자율주행 실험)
+>> - [🚗 출발~ 드림팀]() (차선 인식 기반 자율주행 실험)
 >> - [🌸 Bloom for you](https://github.com/juntae02/bloom_for_you) (키움의 과정을 선물하는 꽃 선물 서비스)
 >> - [🦾 나의 완벽한 비서](https://github.com/juntae02/my_perfect_secretary) (장인 보조 협동로봇 - 대장장이)
->> - [🚓🪝 탐라는 도로지킴이] (제주도 불법주정차 단속 및 견인 서비스)
+>> - [🚓🪝 탐라는 도로지킴이]() (제주도 불법주정차 단속 및 견인 서비스)
 
 - 발표 자료  
 > 언어는 영어로 설정해야 폰트가 변형되지 않음  
@@ -46,7 +46,7 @@
 >> - [🚗 출발~ 드림팀](https://www.canva.com/design/DAGt2kunhJg/goZzTe1LCq2qbrLk0cxp_A/edit?utm_content=DAGt2kunhJg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) (실제)
 >> - [🌸 Bloom for you](https://www.canva.com/design/DAGt2hxdEvg/8CEbznRIRrQc8xgAosH4Jg/edit?utm_content=DAGt2hxdEvg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 >> - [🦾 나의 완벽한 비서](https://www.canva.com/design/DAGt2pGk8OM/XAmI-RrP8dZGNZCpIRM1vw/edit?utm_content=DAGt2pGk8OM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
->> - [🚓🪝 탐라는 도로지킴이] (https://www.canva.com/design/DAGt2neo4Xk/Ou0XMsSN_wnzc_xa53b6Fw/edit?utm_content=DAGt2neo4Xk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+>> - [🚓🪝 탐라는 도로지킴이](https://www.canva.com/design/DAGt2neo4Xk/Ou0XMsSN_wnzc_xa53b6Fw/edit?utm_content=DAGt2neo4Xk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 1. 🚗 출발~ 드림팀
 > 차선 인식 기반 ***자율주행*** 실험  
