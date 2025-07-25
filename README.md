@@ -14,7 +14,9 @@
 <br />
 
 ## 🛠️ Tech Stacks
-**[프로젝트 개요]**
+**[Python]**
+> ***로봇 소프트웨어 개발***,
+**[Python]**
 > TurtleBot3를 활용하여, 다양한 방식의 ***Line Detection*** 및 ***환경 인지 기능*** 구현
 >> - ***준태***: ***밝기*** 기반 Line Detection  
 >> - 석환: ***색상*** 기반 Line Detection 및 총괄 지휘  
