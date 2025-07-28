@@ -7,13 +7,11 @@
 
 ## 📚 About Me
 
-- ***관심 분야*** :  
-  로봇 제어, 자율주행, 컴퓨터 비전, 인공지능  
+- ***관심 분야*** : 로봇 제어, 자율주행, 컴퓨터 비전, 인공지능  
 - ***학습 중*** :  
   기존 프로젝트들 개선하고 정리하며, ROS2 기반의 로봇 시스템 설계에 대한 이해를 깊이하고 있습니다.  
   또한, 로봇 솔루션의 확장성과 견고성을 높이기 위한, 새로운 아이디어들을 탐색하고 구체화하고 있습니다.
-- ***협업*** :  
-  팀의 목표 달성을 위해 적극적으로 소통하고, 아이디어를 공유하며 시너지를 창출하는 데 강점이 있습니다.  
+- ***협업*** : 팀의 목표 달성을 위해 적극적으로 소통하고, 아이디어를 공유하며 시너지를 창출하는 데 강점이 있습니다.  
 <br />
 
 ## 🛠️ Tech Stacks
@@ -50,7 +48,7 @@
 - 블로그 : <a href="">
   <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
   </a>
-- 유튜브 :<a href="https://www.youtube.com/@the_jtpark">
+- 유튜브 : <a href="https://www.youtube.com/@the_jtpark">
   <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
   </a>
 <br />
