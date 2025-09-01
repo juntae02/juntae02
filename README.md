@@ -38,7 +38,7 @@
 - [🚗 출발~ 드림팀](https://github.com/juntae02/let-s_go_dream_team) (차선 인식 기반 자율주행 실험)
 - [🌸 Bloom for you](https://github.com/juntae02/bloom_for_you) (키움의 과정을 선물하는 꽃 선물 서비스)
 - [🦾 나의 완벽한 비서](https://github.com/juntae02/my_perfect_secretary) (장인 보조 협동로봇, Part 1 - 대장장이)
-- [🚓🪝 탐라는 도로지킴이](https://github.com/juntae02/Tamna_is_road_guardian) (제주도 불법주정차 단속 및 견인 서비스)
+<!-- - [🚓🪝 탐라는 도로지킴이](https://github.com/juntae02/Tamna_is_road_guardian) (제주도 불법주정차 단속 및 견인 서비스) -->
 <br />
 
 ## 📞 Contact
